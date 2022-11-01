@@ -3,7 +3,7 @@ package com.rutilomaciel.macronutrientcalculator;
 public class Bowl extends Food{
 
     //Constant Variables
-    public static final double DEFAULT_CALORIES = 2000;
+    public static final double DEFAULT_CALORIES = 3000;
     public static final double DEFAULT_FATS = 20;
     public static final double DEFAULT_CARBS = 20;
     public static final double DEFAULT_PROTEIN = 20;
